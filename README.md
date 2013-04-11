@@ -11,8 +11,8 @@ Version Festival 13 will present projects by cultural workers, community develop
 
 This June 14 through June 26 2013, we're inviting you to demonstrate your skills, share your ideas and your visions to build a better city. We will be utilizing public spaces in Bridgeport to demo a version of an Urban Operating System. Highlights include a new outdoor festival in our parks called Above the Pavement: The City Fair, and events that promote the social engagement of our communities. The Urban OS will continue throughout the year with a series of projects and platforms that will be networked to our local communities.
 
-# To participate:
-Deadline for Submissions: May 10, 2013
+#### To participate: 
+#### Deadline for Submissions: May 10, 2013
 
 ## SUBMISSION INSTRUCTIONS:
 Please look at the platforms for Version below.
@@ -41,7 +41,6 @@ Art and Food projects: Projects by artists that work with food in presenting the
 The NFO XPO: We invite groups, and organizations to exchange art, information, and ideas. Community Orgs, clubs, and skill sharing groups are asked to table and/or organize demonstrations, presentations and info/skill sharing.
 
 Live music: Live performances and music.
-
 
 #### 3. The Art Bowl
 Take part in the Art Bowl. Artist Dan Pugh asks Chicago-based ceramic artists to donate hand-crafted soup bowls for The Art Bowl, benefiting the Benton House Food Pantry.
