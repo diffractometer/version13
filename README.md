@@ -1,9 +1,10 @@
-#### Version 13: An Urban Operating System
-
-Call for Participation
 Version 13: An Urban Operating System
-June 14 through June 22, 2013
-versionfest.org
+=====================================
+
+## Call for Participation
+#### Version 13: An Urban Operating System
+#### June 14 through June 22, 2013
+#### versionfest.org
 
 For the past twelve years, Version Festival has introduced innovative projects that tackle local, social, and urban issues. Every year, the festival highlights socially engaged projects and people, and promotes the cultural use of public space.
 
